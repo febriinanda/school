@@ -1,0 +1,12 @@
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\model\UserRegistrationRequest.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\SchoolApplication.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\service\UserService.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\controller\UserController.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\controller\AuthController.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\controller\ErrorController.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\security\BCrypt.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\entity\User.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\model\ErrorResponse.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\model\WebResponse.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\service\ValidationService.java
+I:\Working Area\Java Project\school\src\main\java\com\nanda\school\repository\UserRepository.java

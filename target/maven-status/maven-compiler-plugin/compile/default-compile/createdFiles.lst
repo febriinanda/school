@@ -1,0 +1,15 @@
+com\nanda\school\controller\AuthController.class
+com\nanda\school\model\UserRegistrationRequest$UserRegistrationRequestBuilder.class
+com\nanda\school\entity\User.class
+com\nanda\school\model\ErrorResponse.class
+com\nanda\school\controller\UserController.class
+com\nanda\school\controller\ErrorController.class
+com\nanda\school\service\ValidationService.class
+com\nanda\school\model\UserRegistrationRequest.class
+com\nanda\school\security\BCrypt.class
+com\nanda\school\model\WebResponse.class
+com\nanda\school\SchoolApplication.class
+com\nanda\school\service\UserService.class
+com\nanda\school\repository\UserRepository.class
+com\nanda\school\model\WebResponse$WebResponseBuilder.class
+com\nanda\school\model\ErrorResponse$ErrorResponseBuilder.class
